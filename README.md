@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating an uncommon issue with regular expressions when using single quotes to define the regex pattern. The script showcases the unexpected behavior and provides a solution to resolve the issue.
